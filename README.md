@@ -1,4 +1,4 @@
-Hi, this is Octocat
+Hi, that is Octocat
 
 I’m go to show you how I use 
 
